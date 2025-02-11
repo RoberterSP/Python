@@ -3,7 +3,11 @@ import pyodbc
 def connect_to_toad():
     # 连接字符串，根据你的实际情况修改
     connection_string = (
-
+        "DRIVER={ODBC Driver 17 for SQL Server};"
+        "Server=caretrack.cxztxrf6czbs.rds.cn-north-1.amazonaws.com.cn;"
+        "Database=cc4_dev;"
+        "UID=sa;"
+        "PWD=Ztan134524;"
     )
 
     try:
