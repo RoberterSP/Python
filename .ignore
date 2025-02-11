@@ -1,0 +1,300 @@
+# 忽略所有 .pyc 文件
+*.pyc
+
+# 忽略所有 .log 文件
+*.log
+
+# 忽略所有 .tmp 文件
+*.tmp
+
+# 忽略所有 .swp 文件
+*.swp
+
+# 忽略所有 .DS_Store 文件（适用于Mac）
+.DS_Store
+
+# 忽略所有 __pycache__ 目录
+__pycache__/
+
+# 忽略所有 build 目录
+build/
+
+# 忽略所有 dist 目录
+dist/
+
+# 忽略所有 venv 目录（虚拟环境）
+venv/
+
+# 忽略所有 .env 文件（环境变量文件）
+.env
+
+# 忽略所有 .vscode 目录（VS Code配置文件）
+.vscode/
+
+# 忽略所有 .idea 目录（PyCharm配置文件）
+.idea/
+
+# 忽略所有 .git 目录（Git仓库）
+.git/
+
+# 忽略所有 .hg 目录（Mercurial仓库）
+.hg/
+
+# 忽略所有 .svn 目录（Subversion仓库）
+.svn/
+
+# 忽略所有 .egg-info 目录（Python包元数据）
+*.egg-info/
+
+# 忽略所有 .pytest_cache 目录（pytest缓存）
+.pytest_cache/
+
+# 忽略所有 .coverage 或 coverage.xml 文件（代码覆盖率报告）
+.coverage
+coverage.xml
+
+# 忽略所有 .mypy_cache 目录（mypy缓存）
+.mypy_cache/
+
+# 忽略所有 .ruff_cache 目录（ruff缓存）
+.ruff_cache/
+
+# 忽略所有 .pylintrc 文件（pylint配置文件）
+.pylintrc
+
+# 忽略所有 .flake8 文件（flake8配置文件）
+.flake8
+
+# 忽略所有 .black 文件（black配置文件）
+.black
+
+# 忽略所有 .isort.cfg 文件（isort配置文件）
+.isort.cfg
+
+# 忽略所有 .pre-commit-config.yaml 文件（pre-commit配置文件）
+.pre-commit-config.yaml
+
+# 忽略所有 .editorconfig 文件（编辑器配置文件）
+.editorconfig
+
+# 忽略所有 .dockerignore 文件（Docker忽略文件）
+.dockerignore
+
+# 忽略所有 .dockerfile 文件（Dockerfile）
+.dockerfile
+
+# 忽略所有 .docker-compose.yml 文件（Docker Compose配置文件）
+.docker-compose.yml
+
+# 忽略所有 .env.example 文件（环境变量示例文件）
+.env.example
+
+# 忽略所有 .gitattributes 文件（Git属性文件）
+.gitattributes
+
+# 忽略所有 .gitignore 文件（Git忽略文件）
+.gitignore
+
+# 忽略所有 .gitmodules 文件（Git子模块配置文件）
+.gitmodules
+
+# 忽略所有 .gitkeep 文件（用于保留空目录）
+.gitkeep
+
+# 忽略所有 .gitlab-ci.yml 文件（GitLab CI/CD配置文件）
+.gitlab-ci.yml
+
+# 忽略所有 .travis.yml 文件（Travis CI配置文件）
+.travis.yml
+
+# 忽略所有 .circleci/config.yml 文件（CircleCI配置文件）
+.circleci/config.yml
+
+# 忽略所有 .github/workflows/*.yml 文件（GitHub Actions配置文件）
+.github/workflows/*.yml
+
+# 忽略所有 .coveragerc 文件（coverage配置文件）
+.coveragerc
+
+# 忽略所有 .mypy.ini 文件（mypy配置文件）
+.mypy.ini
+
+# 忽略所有 .ruff.toml 文件（ruff配置文件）
+.ruff.toml
+
+# 忽略所有 .pylintrc 文件（pylint配置文件）
+.pylintrc
+
+# 忽略所有 .flake8 文件（flake8配置文件）
+.flake8
+
+# 忽略所有 .black 文件（black配置文件）
+.black
+
+# 忽略所有 .isort.cfg 文件（isort配置文件）
+.isort.cfg
+
+# 忽略所有 .pre-commit-config.yaml 文件（pre-commit配置文件）
+.pre-commit-config.yaml
+
+# 忽略所有 .editorconfig 文件（编辑器配置文件）
+.editorconfig
+
+# 忽略所有 .dockerignore 文件（Docker忽略文件）
+.dockerignore
+
+# 忽略所有 .dockerfile 文件（Dockerfile）
+.dockerfile
+
+# 忽略所有 .docker-compose.yml 文件（Docker Compose配置文件）
+.docker-compose.yml
+
+# 忽略所有 .env.example 文件（环境变量示例文件）
+.env.example
+
+# 忽略所有 .gitattributes 文件（Git属性文件）
+.gitattributes
+
+# 忽略所有 .gitignore 文件（Git忽略文件）
+.gitignore
+
+# 忽略所有 .gitmodules 文件（Git子模块配置文件）
+.gitmodules
+
+# 忽略所有 .gitkeep 文件（用于保留空目录）
+.gitkeep
+
+# 忽略所有 .gitlab-ci.yml 文件（GitLab CI/CD配置文件）
+.gitlab-ci.yml
+
+# 忽略所有 .travis.yml 文件（Travis CI配置文件）
+.travis.yml
+
+# 忽略所有 .circleci/config.yml 文件（CircleCI配置文件）
+.circleci/config.yml
+
+# 忽略所有 .github/workflows/*.yml 文件（GitHub Actions配置文件）
+.github/workflows/*.yml
+
+# 忽略所有 .coveragerc 文件（coverage配置文件）
+.coveragerc
+
+# 忽略所有 .mypy.ini 文件（mypy配置文件）
+.mypy.ini
+
+# 忽略所有 .ruff.toml 文件（ruff配置文件）
+.ruff.toml
+
+# 忽略所有 .pylintrc 文件（pylint配置文件）
+.pylintrc
+
+# 忽略所有 .flake8 文件（flake8配置文件）
+.flake8
+
+# 忽略所有 .black 文件（black配置文件）
+.black
+
+# 忽略所有 .isort.cfg 文件（isort配置文件）
+.isort.cfg
+
+# 忽略所有 .pre-commit-config.yaml 文件（pre-commit配置文件）
+.pre-commit-config.yaml
+
+# 忽略所有 .editorconfig 文件（编辑器配置文件）
+.editorconfig
+
+# 忽略所有 .dockerignore 文件（Docker忽略文件）
+.dockerignore
+
+# 忽略所有 .dockerfile 文件（Dockerfile）
+.dockerfile
+
+# 忽略所有 .docker-compose.yml 文件（Docker Compose配置文件）
+.docker-compose.yml
+
+# 忽略所有 .env.example 文件（环境变量示例文件）
+.env.example
+
+# 忽略所有 .gitattributes 文件（Git属性文件）
+.gitattributes
+
+# 忽略所有 .gitignore 文件（Git忽略文件）
+.gitignore
+
+# 忽略所有 .gitmodules 文件（Git子模块配置文件）
+.gitmodules
+
+# 忽略所有 .gitkeep 文件（用于保留空目录）
+.gitkeep
+
+# 忽略所有 .gitlab-ci.yml 文件（GitLab CI/CD配置文件）
+.gitlab-ci.yml
+
+# 忽略所有 .travis.yml 文件（Travis CI配置文件）
+.travis.yml
+
+# 忽略所有 .circleci/config.yml 文件（CircleCI配置文件）
+.circleci/config.yml
+
+# 忽略所有 .github/workflows/*.yml 文件（GitHub Actions配置文件）
+.github/workflows/*.yml
+
+# 忽略所有 .coveragerc 文件（coverage配置文件）
+.coveragerc
+
+# 忽略所有 .mypy.ini 文件（mypy配置文件）
+.mypy.ini
+
+# 忽略所有 .ruff.toml 文件（ruff配置文件）
+.ruff.toml
+
+# 忽略所有 .pylintrc 文件（pylint配置文件）
+.pylintrc
+
+# 忽略所有 .flake8 文件（flake8配置文件）
+.flake8
+
+# 忽略所有 .black 文件（black配置文件）
+.black
+
+# 忽略所有 .isort.cfg 文件（isort配置文件）
+.isort.cfg
+
+# 忽略所有 .pre-commit-config.yaml 文件（pre-commit配置文件）
+.pre-commit-config.yaml
+
+# 忽略所有 .editorconfig 文件（编辑器配置文件）
+.editorconfig
+
+# 忽略所有 .dockerignore 文件（Docker忽略文件）
+.dockerignore
+
+# 忽略所有 .dockerfile 文件（Dockerfile）
+.dockerfile
+
+# 忽略所有 .docker-compose.yml 文件（Docker Compose配置文件）
+.docker-compose.yml
+
+# 忽略所有 .env.example 文件（环境变量示例文件）
+.env.example
+
+# 忽略所有 .gitattributes 文件（Git属性文件）
+.gitattributes
+
+# 忽略所有 .gitignore 文件（Git忽略文件）
+.gitignore
+
+# 忽略所有 .gitmodules 文件（Git子模块配置文件）
+.gitmodules
+
+# 忽略所有 .gitkeep 文件（用于保留空目录）
+.gitkeep
+
+# 忽略所有 .gitlab-ci.yml 文件（GitLab CI/CD配置文件）
+.gitlab-ci.yml
+
+# 忽略所有 .travis.yml 文件（Travis CI配置文件）
+.travis.yml
+
+.history/*
+#
